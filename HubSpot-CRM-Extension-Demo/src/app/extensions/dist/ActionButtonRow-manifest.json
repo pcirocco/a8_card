@@ -1,0 +1,60 @@
+{
+  "entry": "ActionButtonRow.tsx",
+  "modules": {
+    "internal": [
+      {
+        "module": "ActionButtonRow.tsx",
+        "renderedExports": []
+      }
+    ],
+    "external": [
+      {
+        "module": "node_modules/@hubspot/ui-extensions/dist/hubspot.js",
+        "renderedExports": [
+          "hubspot"
+        ]
+      },
+      {
+        "module": "node_modules/@hubspot/ui-extensions/dist/coreComponents.js",
+        "renderedExports": [
+          "Button",
+          "ButtonRow",
+          "Divider",
+          "Text"
+        ]
+      },
+      {
+        "module": "node_modules/@hubspot/ui-extensions/dist/types.js",
+        "renderedExports": [
+          "ServerlessExecutionStatus"
+        ]
+      },
+      {
+        "module": "node_modules/@hubspot/ui-extensions/dist/utils/createExtensionComponent.js",
+        "renderedExports": [
+          "createExtensionComponent"
+        ]
+      },
+      {
+        "module": "node_modules/@hubspot/ui-extensions/dist/crm/components.js",
+        "renderedExports": [
+          "CrmDataHighlight"
+        ]
+      }
+    ]
+  },
+  "package": {
+    "name": "crm-components-example",
+    "version": "0.1.0",
+    "lockfileVersion": 3,
+    "requires": true,
+    "packages": {
+      "": {
+        "name": "crm-components-example",
+        "version": "0.1.0",
+        "hasInstallScript": true,
+        "license": "MIT"
+      }
+    }
+  }
+}

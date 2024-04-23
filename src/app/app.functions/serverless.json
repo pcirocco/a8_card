@@ -1,0 +1,8 @@
+{
+  "appFunctions": {
+    "updateDeal": {
+      "file": "updateDeal.js",
+      "secrets": []
+    }
+  }
+}

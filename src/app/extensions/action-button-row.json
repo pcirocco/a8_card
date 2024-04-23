@@ -1,0 +1,12 @@
+{
+  "type": "crm-card",
+  "uid": "action_button_row",
+  "data": {
+    "title": "Custom Extension Card",
+    "location": "crm.record.tab",
+    "module": {
+      "file": "ActionButtonRow.tsx"
+    },
+    "objectTypes": [{ "name": "contacts" }]
+  }
+}
